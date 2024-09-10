@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib\\mssql-jdbc-12.6.2.jre11.jar",
+        "d:\\study\\JAVA\\sql-student\\BookManagement\\lib\\mssql-jdbc-12.6.2.jre11.jar"
+    ]
+}
